@@ -6,7 +6,7 @@
         nuxt-rendy
       </h1>
       <h2 class="subtitle">
-        Website Builder
+        Website Riki
       </h2>
       <div class="links">
         <a
